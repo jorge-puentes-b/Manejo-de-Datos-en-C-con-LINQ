@@ -1,0 +1,14 @@
+C:\Users\senait\Desktop\Curso\obj\Debug\net8.0\curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senait\Desktop\Curso\obj\Debug\net8.0\curso.AssemblyInfoInputs.cache
+C:\Users\senait\Desktop\Curso\obj\Debug\net8.0\curso.AssemblyInfo.cs
+C:\Users\senait\Desktop\Curso\obj\Debug\net8.0\curso.csproj.CoreCompileInputs.cache
+C:\Users\senait\Desktop\Curso\bin\Debug\net8.0\curso.exe
+C:\Users\senait\Desktop\Curso\bin\Debug\net8.0\curso.deps.json
+C:\Users\senait\Desktop\Curso\bin\Debug\net8.0\curso.runtimeconfig.json
+C:\Users\senait\Desktop\Curso\bin\Debug\net8.0\curso.dll
+C:\Users\senait\Desktop\Curso\bin\Debug\net8.0\curso.pdb
+C:\Users\senait\Desktop\Curso\obj\Debug\net8.0\curso.dll
+C:\Users\senait\Desktop\Curso\obj\Debug\net8.0\refint\curso.dll
+C:\Users\senait\Desktop\Curso\obj\Debug\net8.0\curso.pdb
+C:\Users\senait\Desktop\Curso\obj\Debug\net8.0\curso.genruntimeconfig.cache
+C:\Users\senait\Desktop\Curso\obj\Debug\net8.0\ref\curso.dll
