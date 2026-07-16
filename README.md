@@ -141,18 +141,7 @@ Este proyecto contribuyó al desarrollo de las siguientes habilidades:
 
 ---
 
-## Autor
-
-**Jorge Puentes**
-
-ngenierío de Sistemas con interés en el desarrollo Backend utilizando **C#**, **.NET**, **SQL Server** y **Microsoft Azure**.
-
-Actualmente me encuentro construyendo un portafolio de proyectos enfocados en tecnologías Microsoft como preparación para desempeñarme como **Desarrollador .NET**.
-
----
-
 ## Licencia
 
 Este proyecto fue desarrollado con fines educativos y de aprendizaje.
-Puedes utilizarlo como referencia para practicar C# y LINQ.
 ````
